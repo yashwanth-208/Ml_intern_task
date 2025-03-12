@@ -35,7 +35,7 @@ This project focuses on predicting mycotoxin levels in corn samples using hypers
 
 Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/ML-Intern-Task.git
+git clone https://github.com/yashwanth-208/Ml_intern_task
 cd ML-Intern-Task
 
 2️⃣ Create a Virtual Environment (Recommended)
