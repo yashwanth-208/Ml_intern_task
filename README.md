@@ -34,10 +34,11 @@ This project focuses on predicting mycotoxin levels in corn samples using hypers
 ✔ Evaluating model performance with MAE, RMSE, and R² Score
 
 Setup & Installation
-1️⃣ Clone the Repository
-git clone https://github.com/yashwanth-208/Ml_intern_task
-cd ML-Intern-Task
-
+1️⃣ **Download and Extract the ZIP File**
+1. Go to the **GitHub Releases/Uploaded Files** section.
+2. **Download the ZIP file** containing the project.
+3. **Extract it** to a folder on your computer.
+   
 2️⃣ Create a Virtual Environment (Recommended)
 ## 🛠️ Setup
 After cloning, install dependencies:
